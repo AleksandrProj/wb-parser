@@ -21,7 +21,7 @@
 3. Скачать новую версию chromedriver и положить в папку "drivers" (https://chromedriver.chromium.org)
 4. Открыть терминал в этой папке и запустить команды:
     - "python -m venv venv"
-	- "source venv\Scripts\activate.bat"
+	- "venv\Scripts\activate.bat"
 	- "pip install -r requirements.txt"
 5. Теперь запускаем парсер командой "python start.py"
 6. Ввести ключевое слово для поиска по товарам
